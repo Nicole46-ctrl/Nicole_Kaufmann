@@ -23,7 +23,6 @@
 
 ## 🏁 Fun Facts
 
-* 🏍️ Motorradfahren ist mein Ausgleich
 * 🌍 Liebe Roadtrips und neue Orte
 * 🎧 Musik + Fahrt = perfekter Moment
 
