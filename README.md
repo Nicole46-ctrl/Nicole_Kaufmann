@@ -1,43 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nicole 👋
 
-🏍️ MotoGP begeistert| 💻 Tech begeistert | 🎨 Kreativ unterwegs
+Aspiring Data Analyst with a strong interest in reporting, databases, and data-driven problem solving.
 
----
-
-## 🏍️ About Me
-
-* Liebe Freiheit, Geschwindigkeit & lange Touren
-* Begeistert von Technik & Daten
-* Kreativ mit einem Auge für Details
-
----
-
-## ⚡ Tech Stack
-
+## Tech Stack
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Was ich mache
-- Dashboards und Reports in Excel
-- Datenbanken mit SQLite und PostgreSQL
-- Cloud-Workflows mit Azure
+## Featured Projects
+- **Excel Final Project**  
+  Dashboard development, PivotTables, KPIs, and data visualization
 
----
+- **SQL Final Project**  
+  SQL queries, database structure, analytical questions, and documentation
 
-## 🏁 Fun Facts
+## What I Work On
+- Building dashboards and reports in Excel
+- Writing SQL queries for business questions
+- Working with SQLite and PostgreSQL
+- Exploring cloud-based workflows with Azure
 
-* 🌍 Liebe Roadtrips und neue Orte
-* 🎧 Musik + Fahrt = perfekter Moment
+## Currently Improving
+- My GitHub portfolio
+- Project documentation and repository structure
+- Real-world data analysis projects
 
----
-
-## 📫 Connect with me
-
-*(Hier kannst du später Instagram, LinkedIn etc. einfügen)*
-
----
-
-✨ *Ride fast. Code smart.*
-
+## A Bit About Me
+I enjoy working with data, structured problem solving, and turning raw information into clear insights.
