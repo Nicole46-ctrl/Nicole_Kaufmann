@@ -1,30 +1,60 @@
 # Hi, I'm Nicole 👋
 
-Aspiring Data Analyst with a strong interest in reporting, databases, and data-driven problem solving.
+Aspiring Data Analyst with a focus on SQL, Excel, and data-driven decision making.
 
-## Tech Stack
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+---
+
+## 🚀 Tech Stack
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## Featured Projects
-- **Excel Final Project**  
-  Dashboard development, PivotTables, KPIs, and data visualization
+---
 
-- **SQL Final Project**  
-  SQL queries, database structure, analytical questions, and documentation
+## About Me
 
-## What I Work On
-- Building dashboards and reports in Excel
-- Writing SQL queries for business questions
-- Working with SQLite and PostgreSQL
-- Exploring cloud-based workflows with Azure
+- 📊 Passionate about analyzing data and uncovering insights
+- 🛠️ Skilled in SQL, Excel, and data visualization
+- 📈 Interested in business analytics and performance optimization
+- 🎯 Goal: Becoming a Data Analyst in a data-driven company
 
-## Currently Improving
-- My GitHub portfolio
-- Project documentation and repository structure
-- Real-world data analysis projects
+---
 
-## A Bit About Me
-I enjoy working with data, structured problem solving, and turning raw information into clear insights.
+## 🧠 Skills
+
+- SQL (PostgreSQL, joins, aggregations, data modeling)
+- Excel (PivotTables, dashboards, KPIs, Power Query)
+- Data Analysis & Visualization
+- Relational Data Modeling
+- Data Cleaning & Transformation
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Excel MotoGP Analysis
+Interactive Excel dashboard analyzing historical MotoGP race data, focusing on performance, consistency, and risk.
+
+🔗 https://github.com/Nicole46-ctrl/Excel-MotoGP-Analysis
+
+---
+
+### 🎬 SQL Netflix Analysis
+SQL project transforming raw Netflix data into a structured relational model and extracting business insights through analytical queries.
+
+🔗 https://github.com/Nicole46-ctrl/SQL-Netflix
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL queries and optimization
+- Data storytelling and business insights
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Nicole46-ctrl
