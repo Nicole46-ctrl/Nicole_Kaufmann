@@ -15,37 +15,34 @@ Aspiring Data Analyst with a focus on SQL, Excel, and data-driven decision makin
 
 ## About Me
 
-- 📊 Passionate about analyzing data and uncovering insights
-- 🛠️ Skilled in SQL, Excel, and data visualization
-- 📈 Interested in business analytics and performance optimization
-- 🎯 Goal: Becoming a Data Analyst in a data-driven company
+- 📊 Focused on data analysis and uncovering insights from real-world datasets  
+- 🛠️ Working with SQL, Excel, and data visualization tools  
+- 🎯 Goal: Starting a career as a Data Analysty
 
 ---
 
-## 🧠 Skills
+## 📂 Featured Projects
 
-- SQL (PostgreSQL, joins, aggregations, data modeling)
-- Excel (PivotTables, dashboards, KPIs, Power Query)
-- Data Analysis & Visualization
-- Relational Data Modeling
-- Data Cleaning & Transformation
+### 🎬 SQL Netflix Analysis  
+🔗 https://github.com/Nicole46-ctrl/SQL-Netflix  
+Relational data modeling and SQL analysis of Netflix data to extract business insights.
 
 ---
 
-## 📂 Featured Projects by Skill
+### 📊 Netflix Dashboard (Excel)  
+🔗 https://github.com/Nicole46-ctrl/Netflix-Dashboard  
+Interactive dashboard visualizing content distribution, genres, and trends.
 
-### 🧠 SQL
-- 🎬 [SQL Netflix Analysis](https://github.com/Nicole46-ctrl/SQL-Netflix)
+---
 
-### 📊 Excel
-- 📊 [Netflix Dashboard](https://github.com/Nicole46-ctrl/Netflix-Dashboard)
-- 🏎️ [MotoGP Analysis](https://github.com/Nicole46-ctrl/Excel-MotoGP-Analysis)
-
+### 🏍️ MotoGP Data Analysis  
+🔗 https://github.com/Nicole46-ctrl/Excel-MotoGP-Analysis  
+Performance analysis of MotoGP race data using Excel and Power Query.
 ---
 
 ## 📚 Currently Learning
 
-- Advanced SQL queries and optimization
+- Advanced SQL (window functions, optimization)  
 - Data storytelling and business insights
 
 ---
