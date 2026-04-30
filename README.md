@@ -32,19 +32,14 @@ Aspiring Data Analyst with a focus on SQL, Excel, and data-driven decision makin
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects by Skill
 
-### 📊 Excel MotoGP Analysis
-Interactive Excel dashboard analyzing historical MotoGP race data, focusing on performance, consistency, and risk.
+### 🧠 SQL
+- 🎬 [SQL Netflix Analysis](https://github.com/Nicole46-ctrl/SQL-Netflix)
 
-🔗 https://github.com/Nicole46-ctrl/Excel-MotoGP-Analysis
-
----
-
-### 🎬 SQL Netflix Analysis
-SQL project transforming raw Netflix data into a structured relational model and extracting business insights through analytical queries.
-
-🔗 https://github.com/Nicole46-ctrl/SQL-Netflix
+### 📊 Excel
+- 📊 [Netflix Dashboard](https://github.com/Nicole46-ctrl/Netflix-Dashboard)
+- 🏎️ [MotoGP Analysis](https://github.com/Nicole46-ctrl/Excel-MotoGP-Analysis)
 
 ---
 
